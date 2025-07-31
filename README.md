@@ -4,7 +4,6 @@
 This is a **static clone** of the **Netflix homepage UI**, created using **HTML**, **CSS**, and **JavaScript**. It replicates the visual layout of the Netflix landing page including the navigation bar, hero banner, movie thumbnails, hover animations, and footer. This project is purely front-end and is meant for design/UI practice — it is **not responsive** and contains no dynamic backend functionality.
 
 ---
-## Screenshot
 
 ##  Features
 
@@ -30,6 +29,11 @@ This is a **static clone** of the **Netflix homepage UI**, created using **HTML*
 ###  5. Footer
 - Netflix-style footer with multiple columns of links
 - Includes service code and social icons
+
+
+##  Screenshot
+
+![Netflix Clone UI](./assets/Screenshot%202025-07-31%20233312.png)
 
 ---
 
