@@ -30,6 +30,7 @@ This is a static clone of the Netflix homepage UI, created using HTML, CSS, and 
 ##  Screenshot
 
 ![Netflix Clone UI](Screenshot%202025-07-31%20233312.png)
+![Netflix Clone UI](Screenshot%202025-07-31%20234317.png)
 
 
 ---
