@@ -33,7 +33,8 @@ This is a **static clone** of the **Netflix homepage UI**, created using **HTML*
 
 ##  Screenshot
 
-![Netflix Clone UI](./assets/Screenshot%202025-07-31%20233312.png)
+![Netflix Clone UI](Screenshot%202025-07-31%20233312.png)
+
 
 ---
 
