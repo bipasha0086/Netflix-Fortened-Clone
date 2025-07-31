@@ -5,7 +5,7 @@ This is a static clone of the Netflix homepage UI, created using HTML, CSS, and 
 
 ###  1. Fixed Navigation Bar
 - Top-fixed navbar with Netflix-style layout
-- Background darkens on scroll using JavaScript (`.scrolled` class)
+- Background darkens on scroll using JavaScript (.scrolled class)
 
 ###  2. Hero Banner
 - Featured show section (e.g., Stranger Things)
@@ -19,8 +19,8 @@ This is a static clone of the Netflix homepage UI, created using HTML, CSS, and 
 
 ###  4. JavaScript Interactivity
 - Scroll listener changes navbar background
-- Profile icon redirects to `profile-details.html`
-- Hover effect with `mouseenter`/`mouseleave` transforms
+- Profile icon redirects to profile-details.html
+- Hover effect with mouseenter/mouseleave transforms
 
 ###  5. Footer
 - Netflix-style footer with multiple columns of links
