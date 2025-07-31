@@ -57,4 +57,7 @@ netflix-clone/
 └── assets/
 └── stranger-things.webp / images / icons
 
+## Author:
+Bipasha Rehan
+
 
