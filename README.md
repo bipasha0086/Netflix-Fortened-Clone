@@ -1,8 +1,5 @@
 # Netflix-Fortened-Clone
-
-
 This is a static clone of the Netflix homepage UI, created using HTML, CSS, and JavaScript. It replicates the visual layout of the Netflix landing page including the navigation bar, hero banner, movie thumbnails, hover animations, and footer. This project is purely front-end and is meant for design/UI practice — it is not responsive and contains no dynamic backend functionality.
----
 
 ##  Features
 
